@@ -1,0 +1,6 @@
+--- step [P] ---
+Install a web browser:
+
+sudo pacman -S chromium
+
+Next step: [Q]

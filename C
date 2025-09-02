@@ -1,0 +1,8 @@
+--- step [C] ---
+Mount the partitions:
+
+mount /dev/sda2 /mnt          # mount root
+mkdir -p /mnt/boot
+mount /dev/sda1 /mnt/boot     # mount EFI
+
+Next step: [D]

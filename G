@@ -1,0 +1,7 @@
+--- step [G] ---
+Set local time:
+
+ln -sf /usr/share/zoneinfo/Asia/Tehran /etc/localtime
+hwclock --systohc
+
+Next step: [H]

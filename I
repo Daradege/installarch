@@ -1,0 +1,16 @@
+--- step [I] ---
+Set hostname:
+
+echo "MyArch" > /etc/hostname
+
+Edit hosts file:
+
+nano /etc/hosts
+
+- Add the following lines:
+
+127.0.0.1   localhost
+::1         localhost
+127.0.1.1   MyArch.localdomain MyArch
+
+Next step: [J]

@@ -1,0 +1,18 @@
+--- step [B] ---
+Create partitions using cfdisk:
+
+Partitions to create
+-------------------------------
+| EFI    |  fat32 |  512MiB   |
+| root   |  ext4  |  custom   |
+| swap   |  swap  |  ram size |
+-------------------------------
+
+Format partitions:
+
+mkfs.fat -F32 /dev/sda1    # EFI
+mkfs.ext4 /dev/sda2        # root
+mkswap /dev/sda3           # swap
+swapon /dev/sda3
+
+Next step: [C]

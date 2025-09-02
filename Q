@@ -1,0 +1,6 @@
+--- step [R] ---
+Install Telegram and Element:
+
+sudo pacman -S telegram-desktop element-desktop
+
+Congratulations! Your Arch system with XFCE and basic apps is ready.

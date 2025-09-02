@@ -1,0 +1,6 @@
+--- step [J] ---
+Set root password:
+
+passwd
+
+Next step: [K]

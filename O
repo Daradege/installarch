@@ -1,0 +1,9 @@
+--- step [O] ---
+Install Yay for AUR:
+
+sudo pacman -S git base-devel
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
+Next step: [P]

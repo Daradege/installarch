@@ -1,0 +1,8 @@
+--- step [L] ---
+Exit chroot and reboot:
+
+exit
+umount -R /mnt
+reboot
+
+Next step: [N] (after system boots)

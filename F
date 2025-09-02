@@ -1,0 +1,6 @@
+--- step [F] ---
+Chroot into installed system:
+
+arch-chroot /mnt
+
+Next step: [G]

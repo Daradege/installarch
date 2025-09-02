@@ -1,0 +1,6 @@
+--- step [M] ---
+Update the system:
+
+sudo pacman -Syu
+
+Next step: [N]

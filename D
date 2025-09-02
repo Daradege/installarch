@@ -1,0 +1,6 @@
+--- step [D] ---
+Install base packages:
+
+pacstrap /mnt base linux linux-firmware vim sudo networkmanager
+
+Next step: [E]

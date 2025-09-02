@@ -1,0 +1,7 @@
+--- step [E] ---
+Generate fstab:
+
+genfstab -U /mnt >> /mnt/etc/fstab
+cat /mnt/etc/fstab   # check if entries are correct
+
+Next step: [F]

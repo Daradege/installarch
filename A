@@ -1,0 +1,18 @@
+--- step [A] ---
+Arch TTY supports WiFi connections
+
+follow:
+
+type "iwctl" exactly and press enter to enter its shell
+
+then run commands:
+
+device list
+station <device> scan
+station <device> get-networks
+station <device> connect <SSID>
+exit
+
+Now you are connected to WiFi!
+
+Next step: [B]
