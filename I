@@ -1,7 +1,7 @@
 --- step [I] ---
 Set hostname:
 
-echo "MyArch" > /etc/hostname
+echo "archlinux" > /etc/hostname
 
 Edit hosts file:
 
@@ -11,6 +11,6 @@ nano /etc/hosts
 
 127.0.0.1   localhost
 ::1         localhost
-127.0.1.1   MyArch.localdomain MyArch
+127.0.1.1   archlinux.localdomain archlinux
 
 Next step: [J]
