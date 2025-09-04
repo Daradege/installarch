@@ -1,4 +1,5 @@
-Arch installation guide:
+```
+    Arch installation guide:
 
 Important Note:
 This tutorial is only for systems with UEFI.
@@ -9,7 +10,7 @@ please wait for updates. Thanks <3
 
 Use this command to read every part:
 
-curl daradege.ir/installarch/{level_code}
+curl installarch.daradege.ir/{level_code}
 
 Levels:
 
@@ -38,3 +39,4 @@ Levels:
 [O] Install Yay (for AUR)
 [P] Install a web browser
 [Q] install telegram and element
+```
