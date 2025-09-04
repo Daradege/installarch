@@ -1,3 +1,6 @@
+# Please give me an star!
+[https://github.com/Daradege/installarch](https://github.com/Daradege/installarch)
+
 ```
     Arch installation guide:
 
